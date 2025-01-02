@@ -30,8 +30,8 @@ Bonus: it's cheap to put together and highly hackable. I wrote the code in a mod
 
 | Component            | Pin |
 |----------------------|-----|
-| OLED SDA             | D1  |
-| OLED SCL             | D2  |
+| OLED SDA             | D2  |
+| OLED SCL             | D1  |
 | Rotary Encoder CLK   | D6  |
 | Rotary Encoder DT    | D7  |
 | Rotary Encoder SW    | D4  |
