@@ -26,6 +26,13 @@ Bonus: it's cheap to put together and highly hackable. I wrote the code in a mod
 - D1 mini board (any Arduino board will do, but you will have to adjust the sketch)
 - 3D printer for the shell - all pressure fit, no screws, no glue, nothing else required
 
+Affiliate Links to grab the components (if you want to use them):
+- Rotary Encoder (x5): https://amzn.to/4h4bjCB
+- OLED Display (x5): https://amzn.to/4apCANs
+- Microcontroller (USB-C D1 Mini x6): https://amzn.to/4h2zQYO
+
+(unit cost at the time of writing: just under $7. I'd recommend buying the components in sets - they're great for many projects, and the sets drives the unit cost down)
+
 ## Pinout
 
 | Component            | Pin |
@@ -108,6 +115,9 @@ Simply press the button to exit IDLE mode and return to the menu.
 - After completing the session, stop the timer, and your total focus time is updated.
 - Next, select **DOWN** to time a 20-minute break by adjusting the countdown timer.
 - At the end of the day, if you want to reset your total focus time, navigate to **Reset** and click the button to start fresh.
+
+## Video showcasing the whole thing
+https://youtu.be/Wko0zgRGtPI
 
 ## Roadmap ideas
 
