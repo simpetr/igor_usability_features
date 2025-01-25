@@ -1,6 +1,14 @@
-# Project IGOR - open-source, offline, loyal, cheerful, focus assistant
+# Project IGOR - open-source, loyal, cheerful assistant
 
-A simple, tactile tool to help you track and hopefully increase the amount of minutes that matter each day.
+> [!TIP]  
+> This is the base configuration of IGOR, to serve one straight forward, important use case: it turns the IGOR platform into a simple and effective focus assistant (simple by design). It works very well as is.
+> 
+> However, if you wish, you can go beyond this and make this human-machine/ human-computer interface truly your own.
+>
+> The hardware is capable, the minimalist design is tactile + satisfying to use, and the firmware is easy to develop/ scale in whichever direction your imagination leads you towards!
+> I'm excited to see what you come up with!
+
+Base IGOR: A simple, tactile tool to help you track and hopefully increase the amount of minutes that matter each day.
 
 This project is designed to help you stay on track with your focus sessions, using a simple and intuitive interface via a rotary encoder and an OLED display. Whether you need to time focused work, breaks or other worthy pursuits, this simple cheerful timer is a perfect tool to support your productivity.
 
