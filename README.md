@@ -51,6 +51,10 @@ Affiliate Links to grab the components (if you want to use them):
 | Rotary Encoder DT    | D7  |
 | Rotary Encoder SW    | D4  |
 
+## Wiring (for illustration - always check your actual components vs firmware)
+
+![image](https://github.com/user-attachments/assets/37c8985d-d737-4752-ad43-fd7bf724d4a1)
+
 ## Microcontroller firmware
 
 One sketch file, using the IDE of your choice (e.g. the main Arduino IDE works well with the added modules for D1 mini + libraries - that's what I use).  
