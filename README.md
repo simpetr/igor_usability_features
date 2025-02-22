@@ -34,12 +34,17 @@ Bonus: it's cheap to put together and highly hackable. I wrote the code in a mod
 - D1 mini board (any Arduino board will do, but you will have to adjust the sketch)
 - 3D printer for the shell - all pressure fit, no screws, no glue, nothing else required
 
-Affiliate Links to grab the components (if you want to use them):
-- Rotary Encoder (x5): https://amzn.to/4h4bjCB
-- OLED Display (x5): https://amzn.to/4apCANs
-- Microcontroller (USB-C D1 Mini x6): https://amzn.to/4h2zQYO
+Affiliate links to grab the components (if you want to use them):
+
+| Component       | Amazon US Link                     | Amazon UK Link                     |
+|---------------|--------------------------------|--------------------------------|
+| Rotary Encoder | https://amzn.to/4h4bjCB | https://amzn.to/432Xb8A |
+| OLED Display  | https://amzn.to/4apCANs | https://amzn.to/4gYGKxk |
+| Microcontroller (USB-C D1 Mini) | https://amzn.to/4h2zQYO | https://amzn.to/4gRFgFe |
 
 (unit cost at the time of writing: just under $7. I'd recommend buying the components in sets - they're great for many projects, and the sets drives the unit cost down)
+
+**Note:** in case you have a **Pico** around already, you can use that variant as the basis for your IGOR thanks to one of our contributors! Pico code in repo.
 
 ## Pinout
 
