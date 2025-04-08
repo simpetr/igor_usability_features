@@ -199,6 +199,7 @@ void handleButtonPresses(unsigned long currentMillis) {
       
     case SELECTING_DOWN_DURATION:
       confirmCountdownSelection();
+      if (isVolumeOn) playSound(click_melody);
       break;
 
     case COUNTING_UP:

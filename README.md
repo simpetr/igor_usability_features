@@ -27,7 +27,10 @@ Bonus: it's cheap to put together and highly hackable. I wrote the code in a mod
 ![_DSC0945 Large](https://github.com/user-attachments/assets/ef5a7adf-0809-4d12-9821-14966fce223a)
 
 ## Sound notification (v1.5)
-- **Sound notification:** small and customizable sound notifications that play with every click and at the end of any focus/break session. Sound notifications can be disable from the menu.
+- **Sound notification:** small and customizable sound notifications that play with every click and at the end of any open/focus session. Sound notifications can be disable from the menu.
+
+> [!NOTE]  
+> If you prefer the original version of the project without modification you can find a copy of it inside the 'igor_original' folder
 
 Requires a piezo buzzer (PS1240, SFM-27 or any type) available on every amazon in set ~3-6 $/£/€
 | Component            | Pin | Wiring| 
